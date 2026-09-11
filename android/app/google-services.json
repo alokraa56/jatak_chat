@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478610192905",
+    "project_id": "jatak-a382e",
+    "storage_bucket": "jatak-a382e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478610192905:android:846e54cf04f27e4a8696d8",
+        "android_client_info": {
+          "package_name": "com.JMltd.Jatak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTIv1NozeiNXvTOhXU_CxrYVk9r0JJIew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
